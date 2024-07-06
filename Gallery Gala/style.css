@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 150%;
+    background-color: rgb(151, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+}
+
+.slide_container {
+    height: 50vh;
+    width: 20vw;
+    border: 10px solid black;
+    cursor: pointer;
+
+
+}
+
+div img {
+    height: 150px;
+}
+
+/* #slide {
+    background-image: url(photos/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain; */
