@@ -8,3 +8,5 @@ see how I created a 👊🏻🖐🏻✌🏻️(Rock,Paper,Scissors Game).
 Explore the code, test the features and navigate through the world of coding, turning concepts into reality, and solving real-world problems.
 
 The joy of pushing my code to GitHub for the first time!😇
+
+Today,completed another short project(to-DO List)📑 practicing JS , CSS , HTML.
