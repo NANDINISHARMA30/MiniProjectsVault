@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: white
+}
+
+.frame {
+    height: 36em;
+    width: 72rem;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    /* background-position: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    height: 45px;
+    width: 20%;
+    border: 1px solid white;
+    background-color: rgb(27, 24, 24);
+    color: whitesmoke;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 2px;
+}
+
+.buttons:hover {
+    height: 35px;
+}
+
+.input {
+    margin-left: 15%;
+    width: 65%;
+    margin-top: 2rem;
+    height: 30px;
+}
+
+.calculator {
+    margin-top: .5rem;
+
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Ga Maamli", sans-serif;
+}
+
+.calculatorBox {
+    border: 2px solid black;
+    width: 30%;
+    /* margin-left: 10rem; */
+    padding: 4rem;
+    padding: 0;
+    box-shadow: 3px 3px 6px 3px rgb(88, 85, 85);
+    backdrop-filter: blur(10px);
+}
