@@ -1,0 +1,78 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-color: #E8A317; */
+
+
+}
+
+body {
+    height: 40rem;
+    background: linear-gradient(80deg, #f3c729, #e8bf47, transparent 110%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    /* text-align: center;
+    margin-top: 2em; */
+    font-weight: 600;
+    font-size: 4em;
+    font-family: "Ga Maamli", sans-serif;
+    text-transform: capitalize;
+}
+
+.face {
+    height: 90px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    margin-right: 2em;
+
+}
+
+.box {
+    background-color: black;
+    display: inline-block;
+    color: rgb(236, 229, 229);
+    font-size: 2.3em;
+    font-weight: 500;
+    margin-left: 33rem;
+}
+
+.memebox {
+
+    height: 20rem;
+    width: 30rem;
+    margin-left: 30rem;
+    margin-top: 1rem;
+}
+
+.img1 {
+    height: 20rem;
+    width: 28rem;
+    border: 10px solid rgb(27, 23, 23);
+    padding: 1px;
+}
+
+button {
+    height: 3rem;
+    width: 15rem;
+    margin-left: 36rem;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.loading {
+    display: inline-block;
+    margin-left: 50rem;
+}
