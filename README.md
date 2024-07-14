@@ -16,3 +16,5 @@ From vibrant songbirds to majestic raptors, each slide showcases the incredible 
 and beauty of these feathered wonders;
 
 04. Arithe-tricks calc (a basic calculator using js);
+05. Laugh Loom (Meme Generator) using an API provides a robust platform for creating and sharing memes effortlessly.
+06. Landing page by leveraging (Tailwind CSS), created a visually appealing, functional page that effectively communicates your message and drives user engagement.
